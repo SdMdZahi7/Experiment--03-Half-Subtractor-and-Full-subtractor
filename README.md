@@ -67,7 +67,7 @@ endmodule
 ## TRUTH TABLE:
 ![](hstable.png)
 ## RTL REALIZATION:
-![](hstrl.png)
+![](hsrtl.png)
 ## TIMING DIAGRAM:
 ![](hstiming.png)
 
@@ -77,7 +77,7 @@ endmodule
 ## TRUTH TABLE:
 ![](fstable.png)
 ## RTL REALIZATION:
-![](fstrl.png)
+![](fsrtl.png)
 ## TIMING DIAGRAM:
 ![](fstiming.png)
 
